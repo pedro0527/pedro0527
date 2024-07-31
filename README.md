@@ -1,8 +1,7 @@
 ## SooYong Lee's Profile 👋
 
-<p>Like-Lion at Dongguk Univ. (동국대학교 멋쟁이사자처럼 12기) : Front-end (프론트엔드)</p> 
+<p>LIKELION at Dongguk Univ. (동국대학교 멋쟁이사자처럼 12기) : Front-end (프론트엔드)</p> 
   
-<a href="https://www.notion.so/ed72dabf2dcf4def92ae548f0b971ea9?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-black?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 <div>
     <div>
         <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
@@ -10,7 +9,7 @@
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
         <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=React&logoColor=white">
     </div>
-
+    <a href="https://www.notion.so/ed72dabf2dcf4def92ae548f0b971ea9?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-black?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 </div>
 
 <br>
