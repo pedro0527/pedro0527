@@ -1,11 +1,6 @@
 ![헤더배너](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=LEESOOYONG&fontSize=40)
 
 ## SooYong Lee's Profile 👋
-<div align="center" style="font-size: 1.5em;">
-     <strong>&#x1F64B; SooYong Lee's Profile &#x1F64B;</strong>
-</div>
-<br>
-
 <p>LIKELION at Dongguk Univ. (동국대학교 멋쟁이사자처럼 12기) : Front-end (프론트엔드)</p> 
 
 ## 💻Tech
