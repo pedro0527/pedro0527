@@ -2,6 +2,7 @@
 
 ## SooYong Lee's Profile 👋
 <p>LIKELION at Dongguk Univ. (동국대학교 멋쟁이사자처럼 12기) : Front-end (프론트엔드)</p> 
+<p>Codeit boost with DGU (코드잇 부스트 동국대학교 1기 2반 러너) : Front-end (프론트엔드)</p>
 
 ## 💻Tech
 <div>
