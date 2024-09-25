@@ -12,7 +12,7 @@
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
         <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=React&logoColor=white">
     </div>
-    <a href="https://www.notion.so/ed72dabf2dcf4def92ae548f0b971ea9?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-black?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+        <img src="https://img.shields.io/badge/notion-black?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 </div>
 
 <br>
