@@ -15,6 +15,14 @@
         <img src="https://img.shields.io/badge/notion-black?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 </div>
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/pedro0527"
+  width="600"
+  height="300"
+/>
+</a>
+
 <br>
 
 ![SooYong Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro0527&show_icons=true&theme=transparent)
