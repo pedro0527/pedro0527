@@ -15,7 +15,6 @@
         <img src="https://img.shields.io/badge/notion-black?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 </div>
 
-<a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/pedro0527"
   width="600"
