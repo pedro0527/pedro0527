@@ -19,7 +19,7 @@
 <img
   src="https://render.gitanimals.org/farms/pedro0527"
   width="600"
-  height="300"
+  height="120"
 />
 </a>
 
