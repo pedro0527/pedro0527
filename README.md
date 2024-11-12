@@ -17,7 +17,7 @@
 
 <a href="https://github.com/devxb/gitanimals">
 <img
-  src="https://render.gitanimals.org/farms/pedro0527"
+  src="https://render.gitanimals.org/farms/{pedro0527}"
   width="600"
   height="300"
 />
