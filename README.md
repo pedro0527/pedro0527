@@ -1,10 +1,6 @@
 ![헤더배너](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=LEESOOYONG&fontSize=40)
 
-## SooYong Lee's Profile 👋
-<p>LIKELION at Dongguk Univ. (동국대학교 멋쟁이사자처럼 12기) : Front-end (프론트엔드)</p> 
-<p>Codeit boost with DGU (코드잇 부스트 동국대학교 1기 2반 러너) : Front-end (프론트엔드)</p>
-
-## 💻Tech
+## 📚 Studying 📚
 <div>
     <div>
         <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
@@ -12,8 +8,34 @@
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
         <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=React&logoColor=white">
     </div>
-        <img src="https://img.shields.io/badge/notion-black?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 </div>
+
+<br>
+
+## 🛠 Tools 🛠
+<div>
+    <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" /></a>
+    <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+
+<br>
+
+## 💡 Experiences
+
+**[2024]**
+
+<p>LIKELION at Dongguk Univ. (동국대학교 멋쟁이사자처럼 12기) : Front-end (프론트엔드)</p> 
+
+<p>Codeit boost with DGU (코드잇 부스트 동국대학교 1기 2반 러너) : Front-end (프론트엔드)</p>
+
+<br>
+
+## 🏆 Awards
+
+[2024] 멋쟁이사자처럼 대학 4호선톤 `대상` 수상
+
+<br>
 
 <a href="https://github.com/devxb/gitanimals">
 <img
@@ -24,9 +46,16 @@
 </a>
 
 <br>
+<br>
 
-![SooYong Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro0527&show_icons=true&theme=transparent)
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=pedro0527&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width="48%" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro0527&layout=compact&theme=material-palenight" width="36.5%"/>
+</div>
 
+<br>
 
 <!-- <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> -->
