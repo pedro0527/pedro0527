@@ -1,7 +1,5 @@
 ## Hi 👋
 
-<br>
-
 ## 📚 Studying 📚
 <div>
     <div>
