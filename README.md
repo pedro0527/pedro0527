@@ -1,4 +1,4 @@
-![헤더배너](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=LEESOOYONG&fontSize=40)
+## Hi 👋
 
 ## 📚 Studying 📚
 <div>
