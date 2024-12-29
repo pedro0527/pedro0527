@@ -1,5 +1,5 @@
 ## 👋 Lee SooYong
-> Dongguk University ICE <br/> FE Developer
+> 🐘Dongguk University ICE 
 <br>
 
 ### 📚 Studying
