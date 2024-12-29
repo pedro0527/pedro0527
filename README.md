@@ -10,7 +10,7 @@
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
         <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=React&logoColor=white">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
     </div>
 </div>
 
@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=flat-square&logo=notion&logoColor=black" /></a>
     <img src="https://img.shields.io/badge/git-F05033.svg?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-181717.svg?style=flat-square&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=vscode&logoColor=white"/>
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 </div>
