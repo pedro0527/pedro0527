@@ -58,23 +58,12 @@
 
 <br>
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=pedro0527&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/pedro0527"
-  width="600"
-  height="300"
-/>
-</a>
-
-<br>
-<br>
-
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=pedro0527&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width="48%" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro0527&layout=compact&theme=material-palenight" width="36.5%"/>
-</div>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro0527&layout=compact&theme=material-palenight" width="36.5%"/>
+</div> -->
 
 <br>
 
