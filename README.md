@@ -47,7 +47,7 @@
 | 2024.07<br>-2024.08 | 반려견 헌혈 예약 및 긴급 수혈 가능 반려견 정보 커뮤니티, **나눠주개** | React |  [나눠주개](https://github.com/LikeLion-at-DGU/2024-hackathon-3-sharedog-frontend) |
 | 2024.10<br>-2024.11 | 공유를 통해 환경보호를 실천하고자 하는 서비스, **조인어스** | React | [조인어스](https://github.com/2024-line4-earth/Join_us_FE) |
 | 2024.12<br>-2025.04 | 반려견 헌혈 예약 및 긴급 수혈 가능 반려견 정보 커뮤니티, **나눠주개** | React | [나눠주개](https://github.com/TEAM-LifeTail/2024-sharedog-frontend) |
-| 2025.3<br>-현재 | 공유를 통해 환경보호를 실천하고자 하는 서비스, **조인어스** | React, TypeScript | [조인어스]() |
+| 2025.3<br>-현재 | 공유를 통해 환경보호를 실천하고자 하는 서비스, **조인어스** | React, TypeScript | [조인어스](https://github.com/2024-line4-earth/New_Joinus_FE) |
 <br>
 
 ### 🏆 Awards
