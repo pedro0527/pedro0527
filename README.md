@@ -35,7 +35,7 @@
 
 **[2025]**
 
-- <p>LIKELION at Dongguk Univ. (동국대학교 멋쟁이사자처럼 12기 운영진) : Front-end (프론트엔드)</p> 
+- <p>LIKELION at Dongguk Univ. (동국대학교 멋쟁이사자처럼 13기 운영진) : Front-end (프론트엔드)</p> 
 - <p>AT SOPT 36th iOS YB</p> 
 
 <br>
