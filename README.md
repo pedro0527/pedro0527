@@ -58,7 +58,7 @@
 
 **[2025]**
 
-- AT SOPT 36th SOPKATHON **최우수상** 수상
+- AT SOPT 36th SOPKATHON iOS **최우수상** 수상
 
 <!-- <br>
 
